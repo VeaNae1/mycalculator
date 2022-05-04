@@ -8,7 +8,7 @@ setuptools.setup (
   author='VeaNae',
   author_email='jess106@naver.com',
   url="https://github.com/VeaNae1/mycalculator.git"
-  download_url="https://github.com/VeaNae1/mycalculator/archive/refs/tags/v.0.0.1-alpha.zip"
+  download_url="https://github.com/VeaNae1/mycalculator/archive/refs/tags/v.0.0.1-alpha.zip",
   install_requires=['pytest'],
   long_description='oss-dev calculator python module',
   long_description_content_type='test/markdown',
